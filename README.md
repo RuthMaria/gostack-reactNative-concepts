@@ -13,11 +13,11 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=03A9F4&labelColor=000000" alt="PRs welcome!" /> 
+ <img src="https://img.shields.io/static/v1?label=PRs&message=welcome&color=61dafb&labelColor=000000" alt="PRs welcome!" /> 
 
-  <img alt="License" src="https://img.shields.io/badge/Made%20by-Ruth%20Maria-%2303A9F4">
+  <img alt="License" src="https://img.shields.io/badge/Made%20by-Ruth%20Maria-61dafb">
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=03A9F4&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=61dafb&labelColor=000000">
 </p>
 
 <br>
