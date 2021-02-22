@@ -73,6 +73,7 @@ export default function App() {
   );
 }
 
+// tudo o que não for número tem que ter aspas simples
 const styles = StyleSheet.create({
   container: {
     flex: 1,
